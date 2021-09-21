@@ -44,10 +44,3 @@ yarn dev
 
 # Acesse http://localhost:8080 no seu navagador
 ```
-<br>
-## :memo: Licença
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
----
-Feito com :purple_heart: by [Caio Christhian](https://github.com/CaioChristhian)
-[![Linkedin Badge](https://img.shields.io/badge/-Caio%20Christhian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-christhian-lopes-silva-6429421b8/)](https://www.linkedin.com/in/caio-christhian-lopes-silva-6429421b8/) 
-[![Gmail Badge](https://img.shields.io/badge/-caiochristhianz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiochristhianz@gmail.com)](mailto:caiochristhianz@gmail.com) 
