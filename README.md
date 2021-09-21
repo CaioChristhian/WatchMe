@@ -11,7 +11,9 @@
     <img alt="Solved by Caio Christhian" src="https://img.shields.io/badge/solved%20by-Caio%20Christhian-%2306b656?style=flat-square">
   </a>
 </p>
+
 <br>
+
 ## :rocket: Sobre o desafio
 <p align="center">
   <img src=".github/watchme.png" alt="WatchMe">
@@ -22,7 +24,9 @@ A aplicação já está totalmente funcional mas grande parte do seu código est
 - Na sidebar é possível selecionar qual categoria de filmes deve ser listada;
 - A primeira categoria da lista (que é "Ação") já deve começar como marcada;
 - O header da aplicação possui apenas o nome da categoria selecionada que deve mudar dinamicamente.
+
 <br>
+
 ## :wrench: Instalação e uso
 
 ```bash
